@@ -1,0 +1,30 @@
+/**********************************************TAG SELECTOR*************************************/
+
+body {
+  background-image: linear-gradient(to right,#463333,#fff0f0);
+}
+
+h1 {font-size: 50px;
+  color: #835858;
+  text-shadow: 2px 2px 5px #C0C0C0;
+}
+
+  p{padding-left: 25%;}
+
+
+
+ img:{background-color: blue;}
+
+
+
+
+/**********************************************CLASS SELECTORE******************************/
+.emoji{background-color: #fff0f0;}
+
+.lava{padding-left: 50%;}
+
+.circular{border-radius: 100%;}
+
+/******************************************ID SELECTORS**********************************/
+#heading {color:orange;
+}
